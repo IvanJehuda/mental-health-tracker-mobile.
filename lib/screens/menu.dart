@@ -40,8 +40,8 @@ class InfoCard extends StatelessWidget {
 class MyHomePage extends StatelessWidget {
   MyHomePage({super.key});
 
-  final String npm = '2306228756'; // NPM
-  final String name = 'Krisna Putra Purnomo'; // Nama
+  final String npm = '2306152222'; // NPM
+  final String name = 'Ivan Jehuda Angi'; // Nama
   final String className = 'PBP E'; // Kelas
 
   final List<ItemHomepage> items = [
